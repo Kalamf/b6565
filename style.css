@@ -1,0 +1,106 @@
+body{
+    background: linear-gradient( to left, rgb(190, 0, 190), rgb(2, 2, 189));
+    font-size: 150px;
+    color:aqua;
+    text-align: center;
+    margin: 0px;
+}
+header{
+    color: rgb(255, 0, 255);
+    font-size: 150px;
+    background-image: url(https://foni.club/uploads/posts/2023-02/1677287360_foni-club-p-reyna-arti-valorant-13.jpg);
+    background-position-y: -400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 100px; 
+}
+h1{
+    text-align: center;
+    font-size:180px;
+    color: linear-gradient( to left, green, blue); 
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: black 4px 8px 8px;
+    margin: 0px;
+}
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+main{
+    color:rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 300%;
+    background: linear-gradient( to left, rgb(255, 0, 255), rgb(0, 0, 143));
+    font-size: 200px;
+    text-align: center;
+}
+footer{
+    color:rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 300%;
+    background: linear-gradient( to left, rgb(255, 0, 255), rgb(1, 1, 255));
+    font-size: 150px;
+}
+div{
+    width:100%;
+    height: 150%;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+        color: linear-gradient( to left, green, blue); 
+
+}
+.left{
+    background-color: rgb(100, 2, 2);
+    float:left;
+    padding: 40px;
+    background: linear-gradient( to left, rgb(255, 0, 255), rgb(0, 0, 143));
+    
+}
+.right{
+    background-color: rgb(0, 158, 158);
+    float: right;
+    padding: 200px;
+    text-align: flex;
+    height:4300px;
+    background: linear-gradient( to left, rgb(255, 0, 255), rgb(0, 0, 143));
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 100%;
+    display: flex;
+}
+body{
+    margin: 0;      
+} 
+.gradient-text {
+    font-family: 'Rubik One', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    background: linear-gradient( to left, rgb(255, 0, 255), rgb(0, 0, 143));
+    -webkit-text-fill-color: transparent;
+    color: #0B2349;
+    display: table;
+    margin: 20px auto;
+  }
+  li{
+    list-style: none;
+  }
+  footer{
+    display: flex;
+  }
+.f_right{
+    float:right;
+} 
+.f_left{
+    float:left;
+}
+  ul{
+     display: flex;
+  }
